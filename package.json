@@ -1,0 +1,21 @@
+{
+  "name": "rasterize-theme",
+  "displayName": "rasterize Theme",
+  "description": "My custom VSCode colour theme designed to be used with C++",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rasterize Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rasterize Theme-color-theme.json"
+      }
+    ]
+  }
+}
